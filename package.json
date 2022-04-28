@@ -35,5 +35,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "proxy": "https://lazy-erin-magpie-tie.cyclic.app/api/users/register"
 }
