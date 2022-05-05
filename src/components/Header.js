@@ -36,7 +36,7 @@ function Header() {
         <li className="nav-item">
         <a class="nav-link" href="#">
         <FaUser />
-        {user.username}
+        {user ? user.username :""}
         </a>
         </li>
         <li className="nav-item">
